@@ -1,11 +1,6 @@
 let allMusic = [
-    {
-        name: "Hind-Ke-Sitara",
-        artist: "Manjoj Tiwari",
-        img: "music-0",
-        src: "music-0"
-    },
-    /*
+    
+    
     {
         name: "Shape-of-You",
         artist: "Ed Sheeran",
@@ -66,5 +61,5 @@ let allMusic = [
         img: "music-10",
         src: "music-10"
     },
-    */
+    
 ];
